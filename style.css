@@ -1,0 +1,186 @@
+@ import url(https://fonts.google.com/specimen/Rubik)
+body{
+    padding-left:1cm;
+}
+.navbar ul{
+    margin-left: 13cm;
+    padding-left:40px;
+}
+.navbar ul li {
+    padding-left:10px;
+    font-weight:600;
+}
+.navbar ul li btn{
+   background-color:hsl(0, 94%, 66%);
+}
+.container1 nav ul li{
+    display:inline;
+    padding-left:20px;
+}
+.container1 .navbar ul li btn{
+   background-color:hsl(0, 94%, 66%);
+}
+.text pre{
+    float: left;
+    margin-top:-1cm;
+    font-size:36px;
+    font-weight:600;
+    line-height:1.2cm;
+    color:hsl(229, 31%, 21%);
+}
+.text .shape {
+    margin-top:-3cm;
+    width:11cm;
+    height:7cm;
+    margin-left:12cm; 
+    float:right;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 100px;
+    background-color: hsl(231, 69%, 60%);
+}
+pre{
+    color:gray;
+    font-weight:300;
+}
+#features p{
+    margin-top:8cm;
+    align-content: center;
+    margin-left:15cm;
+    color:rgb(17, 17, 17);
+    font-weight:700;
+    font-size:30px;
+    
+}
+#features pre{
+    align-content: center;
+    margin-left:11cm;
+    color:rgb(102, 98, 98);
+    font-size:15px;
+}
+#features ul li {
+    display:inline;
+    color:rgb(102, 98, 98);
+    font-size:20px;
+    margin-left:5cm;
+    padding-left:1px;
+}
+.text1 .para text{
+    font-size:36px;
+    font-weight:600;
+    color:hsl(229, 31%, 21%);
+}
+.text1 .shape {
+    margin-top:1cm;
+    width:11cm;
+    height:7cm;
+    margin-left:3cm; 
+    float:left;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 100px;
+    background-color: hsl(231, 69%, 60%);
+}
+#download pre{
+    align-content: center;
+    margin-left:11cm;
+    color:rgb(102, 98, 98);
+    font-size:15px;
+}
+#download p{
+    align-content: center;
+    margin-left:5cm;
+    color:rgb(17, 17, 17);
+    font-weight:700;
+    font-size:30px;
+}
+#download .card-deck .card{
+    width: 6cm;
+    height:65px;
+}
+#download .card-deck .card .card-body{
+    margin-left:2cm;
+}
+#download .card-deck .card .card-body .card-title{
+    font-size:20px;
+    color:black;
+}
+#download .card-deck .card p{
+    font-size:12px;
+    color:rgb(116, 112, 112);
+    margin-left:0.1cm;
+    
+}
+#faq p{
+    align-content: center;
+    margin-left:5cm;
+    color:rgb(17, 17, 17);
+    font-weight:700;
+    font-size:30px;
+}
+#faq pre{
+    align-content: center;
+    margin-left:12.5cm;
+    color:rgb(102, 98, 98);
+    font-size:15px;
+}
+.bottom{
+    background-color:hsl(231, 69%, 60%) ;
+    color:white;
+    height:6.5cm;
+}
+.bottom text{
+    padding-top:1cm;
+    margin-left:15.5cm;
+}
+.bottom pre{
+    margin-left:14cm;
+    color:white;
+    font-size:25px;
+    
+}
+
+
+
+
+
+
+# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+
+- Soft Blue: hsl(231, 69%, 60%)
+- Soft Red: hsl(0, 94%, 66%)
+
+### Neutral
+
+- Grayish Blue: hsl(229, 8%, 60%)
+- Very Dark Blue: hsl(229, 31%, 21%)
+
+## Typography
+
+### Body Copy
+
+- Font size: 18px
+
+### Fonts
+
+- Family: [Rubik](https://fonts.google.com/specimen/Rubik)
+- Weights: 400, 500
+
+## Icons
+
+For the icons in the design, you can choose between using the icons provided or an font icon library.
+
+Some library suggestions can be found below:
+
+- [Font Awesome](https://fontawesome.com)
+- [IcoMoon](https://icomoon.io)
+- [Ionicons](https://ionicons.com)
